@@ -1,4 +1,4 @@
-![] (https://github.com/Zv74D/Zv74D/blob/main/giphy.gif)
+![](https://github.com/Zv74D/Zv74D/blob/main/giphy.gif)
 
 # 💫 About Me:
 meow meow meowwwwwwwwww<br>

@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?Zv74D)
+![](https://komarev.com/ghpvc/Zv74D)
 
 ![](https://github.com/Zv74D/Zv74D/blob/main/giphy.gif)
 

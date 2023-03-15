@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Zv74D&style=flat-square)
 
-![](https://github.com/Zv74D/Zv74D/blob/main/giphy.gif)
+![](https://github.com/Zv74D/Zv74D/blob/main/giphy%20(1).gif)
 
 # 💫 About Me:
 meow meow meowwwwwwwwww<br>

@@ -1,9 +1,3 @@
-![](https://komarev.com/ghpvc/?username=somniasum&style=flat-square)
-
-
-
-# 💫 About Me:
-meow meow meowwwwwwwwww<br>
 
 
 # 💻 Tech Stack:
